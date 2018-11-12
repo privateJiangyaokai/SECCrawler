@@ -1,0 +1,1449 @@
+{ Name: 'Cullman Savings Bank',
+  City: 'Cullman',
+  State: 'AL',
+  Phone: '(256) 734-1740' }
+{ Name: 'First FS&LA of San Rafael',
+  City: 'San Rafael',
+  State: 'CA',
+  Phone: '(415) 456-6231' }
+{ Name: 'Century S&LA',
+  City: 'Trinidad',
+  State: 'CO',
+  Phone: '(719) 846-2257' }
+{ Name: 'Del Norte FS&LA',
+  City: 'Del Norte',
+  State: 'CO',
+  Phone: '(719) 657-3376' }
+{ Name: 'Gunnison S&LA',
+  City: 'Gunnison',
+  State: 'CO',
+  Phone: '(970) 641-2171' }
+{ Name: 'Rio Grande S&LA',
+  City: 'Monte Vista',
+  State: 'CO',
+  Phone: '(719) 852-5933' }
+{ Name: 'San Luis Valley Federal Bank',
+  City: 'Alamosa',
+  State: 'CO',
+  Phone: '(719) 589-6653' }
+{ Name: 'Eastern Federal Bank',
+  City: 'Norwich',
+  State: 'CT',
+  Phone: '(860) 889-7381' }
+{ Name: 'First Federal Bank of North Florida',
+  City: 'Palatka',
+  State: 'FL',
+  Phone: '(386) 328-6761' }
+{ Name: 'First Federal Savings Bank of Florida',
+  City: 'Live Oak',
+  State: 'FL',
+  Phone: '(386) 362-3433' }
+{ Name: 'Sunshine State FS & LA',
+  City: 'Plant City',
+  State: 'FL',
+  Phone: '(813) 752-6193' }
+{ Name: 'Elberton FS & LA',
+  City: 'Elberton',
+  State: 'GA',
+  Phone: '(706) 283-5821' }
+{ Name: 'Family Bank',
+  City: 'Pelham',
+  State: 'GA',
+  Phone: '(229) 294-2821' }
+{ Name: 'First FS&LA of Valdosta',
+  City: 'Valdosta',
+  State: 'GA',
+  Phone: '(229) 244-0164' }
+{ Name: 'Newton Federal Bank',
+  City: 'Covington',
+  State: 'GA',
+  Phone: '(770) 786-7088' }
+{ Name: 'Stephens Federal Bank',
+  City: 'Toccoa',
+  State: 'GA',
+  Phone: '(706) 886-2113' }
+{ Name: 'Thomas County FS & LA',
+  City: 'Thomasville',
+  State: 'GA',
+  Phone: '(229) 226-3221' }
+{ Name: 'Vidalia Federal Savings Bank',
+  City: 'Vidalia',
+  State: 'GA',
+  Phone: '(912) 537-8805' }
+{ Name: 'Independence Federal Bank for Savings',
+  City: 'Independence',
+  State: 'IA',
+  Phone: '(319) 334-2545' }
+{ Name: 'Interstate FS & LA of McGregor',
+  City: 'McGregor',
+  State: 'IA',
+  Phone: '(563) 873-3467' }
+{ Name: 'Page County Federal Savings Assn.',
+  City: 'Clarinda',
+  State: 'IA',
+  Phone: '(712) 542-2103' }
+{ Name: 'First Federal SB of Twin Falls',
+  City: 'Twin Falls',
+  State: 'ID',
+  Phone: '(208) 733-4222' }
+{ Name: 'Home FS & LA of Nampa',
+  City: 'Nampa',
+  State: 'ID',
+  Phone: '(208) 466-4634' }
+{ Name: 'American Union S & LA',
+  City: 'Chicago',
+  State: 'IL',
+  Phone: '(773) 342-2711' }
+{ Name: 'Ben Franklin Bank of Illinois',
+  City: 'Arlington Heights',
+  State: 'IL',
+  Phone: '(847) 398-0990' }
+{ Name: 'Central FS & LA',
+  City: 'Cicero',
+  State: 'IL',
+  Phone: '(708) 656-5000' }
+{ Name: 'Central FS & LA of Chicago',
+  City: 'Chicago',
+  State: 'IL',
+  Phone: '(773) 528-0200' }
+{ Name: 'Charleston FS & LA',
+  City: 'Charleston',
+  State: 'IL',
+  Phone: '(217) 348-8105' }
+{ Name: 'Collinsville B & LA',
+  City: 'Collinsville',
+  State: 'IL',
+  Phone: '(618) 344-3172' }
+{ Name: 'Family Federal Savings of Illinois',
+  City: 'Cicero',
+  State: 'IL',
+  Phone: '(708) 656-0100' }
+{ Name: 'First Federal Savings Bank',
+  City: 'Ottawa',
+  State: 'IL',
+  Phone: '(815) 434-3500' }
+{ Name: 'First FS & LA of Kewanee',
+  City: 'Kewanee',
+  State: 'IL',
+  Phone: '(309) 853-3301' }
+{ Name: 'First FS & LA of Mattoon',
+  City: 'Mattoon',
+  State: 'IL',
+  Phone: '(217) 235-5411' }
+{ Name: 'First FS & LA of Pekin',
+  City: 'Pekin',
+  State: 'IL',
+  Phone: '(309) 347-3106' }
+{ Name: 'First FS & LA of Shelbyville',
+  City: 'Shelbyville',
+  State: 'IL',
+  Phone: '(217) 774-3322' }
+{ Name: 'First FSB of Mascoutah',
+  City: 'Mascoutah',
+  State: 'IL',
+  Phone: '(618) 566-2343' }
+{ Name: 'Guardian Savings Bank',
+  City: 'Granite City',
+  State: 'IL',
+  Phone: '(618) 876-7450' }
+{ Name: 'Home FS & LA of Collinsville',
+  City: 'Collinsville',
+  State: 'IL',
+  Phone: '(618) 345-1121' }
+{ Name: 'Illinois-Service FS & LA',
+  City: 'Chicago',
+  State: 'IL',
+  Phone: '(773) 624-2000' }
+{ Name: 'Iroquois FS & LA',
+  City: 'Watseka',
+  State: 'IL',
+  Phone: '(815) 432-2476' }
+{ Name: 'Loomis FS & LA',
+  City: 'Chicago',
+  State: 'IL',
+  Phone: '(773) 586-6900' }
+{ Name: 'Milford B & LA',
+  City: 'Milford',
+  State: 'IL',
+  Phone: '(815) 889-4140' }
+{ Name: 'Mt Morris S & LA',
+  City: 'Mount Morris',
+  State: 'IL',
+  Phone: '(815) 734-6051' }
+{ Name: 'North Shore Trust and Savings',
+  City: 'Waukegan',
+  State: 'IL',
+  Phone: '(847) 336-4430' }
+{ Name: 'North Side FS & LA of Chicago',
+  City: 'Chicago',
+  State: 'IL',
+  Phone: '(773) 561-7051' }
+{ Name: 'Peru Federal Savings Bank',
+  City: 'Peru',
+  State: 'IL',
+  Phone: '(815) 223-4300' }
+{ Name: 'Prospect Federal Savings Bank',
+  City: 'Worth',
+  State: 'IL',
+  Phone: '(708) 361-8000' }
+{ Name: 'Second FS & LA of Chicago',
+  City: 'Chicago',
+  State: 'IL',
+  Phone: '(773) 277-8500' }
+{ Name: 'Sterling Federal Bank, F.S.B.',
+  City: 'Sterling',
+  State: 'IL',
+  Phone: '(815) 626-0614' }
+{ Name: 'Streator Home B & LA',
+  City: 'Streator',
+  State: 'IL',
+  Phone: '(815) 673-5566' }
+{ Name: 'Tempo Bank, a FSB',
+  City: 'Trenton',
+  State: 'IL',
+  Phone: '(618) 224-9228' }
+{ Name: 'Union FS & LA',
+  City: 'Kewanee',
+  State: 'IL',
+  Phone: '(309) 853-3535' }
+{ Name: 'Bedford FSB',
+  City: 'Bedford',
+  State: 'IN',
+  Phone: '(812) 275-5907' }
+{ Name: 'Boonville FSB',
+  City: 'Boonville',
+  State: 'IN',
+  Phone: '(812) 897-2620' }
+{ Name: 'Farmers and Mechanics FS & LA',
+  City: 'Bloomfield',
+  State: 'IN',
+  Phone: '(812) 384-4473' }
+{ Name: 'First Federal Savings Bank of Angola',
+  City: 'Angola',
+  State: 'IN',
+  Phone: '(260) 665-7556' }
+{ Name: 'First FS & LA of Greensburg',
+  City: 'Greensburg',
+  State: 'IN',
+  Phone: '(812) 663-6793' }
+{ Name: 'First FS & LA of Hammond',
+  City: 'Hammond',
+  State: 'IN',
+  Phone: '(219) 932-0052' }
+{ Name: 'First FS & LA of Washington',
+  City: 'Washington',
+  State: 'IN',
+  Phone: '(812) 254-2370' }
+{ Name: 'First Savings Bank, F.S.B.',
+  City: 'Clarksville',
+  State: 'IN',
+  Phone: '(812) 283-0724' }
+{ Name: 'Home Bank SB',
+  City: 'Martinsville',
+  State: 'IN',
+  Phone: '(765) 342-6695' }
+{ Name: 'Kentland FS & LA',
+  City: 'Kentland',
+  State: 'IN',
+  Phone: '(219) 474-5888' }
+{ Name: 'Lake FS & LA of Hammond',
+  City: 'Hammond',
+  State: 'IN',
+  Phone: '(219) 845-0220' }
+{ Name: 'Liberty Savings Bank, FSB',
+  City: 'Whiting',
+  State: 'IN',
+  Phone: '(219) 659-6700' }
+{ Name: 'Newton County Loan & Savings, FSB',
+  City: 'Goodland',
+  State: 'IN',
+  Phone: '(219) 297-4255' }
+{ Name: 'Peoples S & LA of Monticello Indiana',
+  City: 'Monticello',
+  State: 'IN',
+  Phone: '(574) 583-4121' }
+{ Name: 'Security Federal Savings Bank',
+  City: 'Logansport',
+  State: 'IN',
+  Phone: '(574) 722-6261' }
+{ Name: 'Union S & LA',
+  City: 'Connersville',
+  State: 'IN',
+  Phone: '(765) 825-2171' }
+{ Name: 'United Community Bank',
+  City: 'Lawrenceburg',
+  State: 'IN',
+  Phone: '(812) 537-2473' }
+{ Name: 'Argentine Federal Savings',
+  City: 'Kansas City',
+  State: 'KS',
+  Phone: '(913) 831-2004' }
+{ Name: 'Citizens S&LA, FSB',
+  City: 'Leavenworth',
+  State: 'KS',
+  Phone: '(913) 727-1040' }
+{ Name: 'First FS&LA of Wakeeney',
+  City: 'Wakeeney',
+  State: 'KS',
+  Phone: '(785) 743-5751' }
+{ Name: 'Home Savings Bank',
+  City: 'Chanute',
+  State: 'KS',
+  Phone: '(620) 431-1100' }
+{ Name: 'Inter-State FS&LA of Kansas City',
+  City: 'Kansas City',
+  State: 'KS',
+  Phone: '(913) 233-6100' }
+{ Name: 'Lyons FSA',
+  City: 'Lyons',
+  State: 'KS',
+  Phone: '(620) 257-2316' }
+{ Name: 'Mutual SA, FSA',
+  City: 'Leavenworth',
+  State: 'KS',
+  Phone: '(913) 682-3491' }
+{ Name: 'The Liberty SA, FSA',
+  City: 'Fort Scott',
+  State: 'KS',
+  Phone: '(620) 223-0300' }
+{ Name: 'Blue Grass FS & LA',
+  City: 'Paris',
+  State: 'KY',
+  Phone: '(859) 987-2951' }
+{ Name: 'Carrollton Federal Bank',
+  City: 'Carrollton',
+  State: 'KY',
+  Phone: '(502) 732-4272' }
+{ Name: 'Citizens FS & LA',
+  City: 'Covington',
+  State: 'KY',
+  Phone: '(859) 431-0087' }
+{ Name: 'Commonwealth Bank, FSB',
+  City: 'Mount Sterling',
+  State: 'KY',
+  Phone: '(859) 498-5728' }
+{ Name: 'First Federal Bank',
+  City: 'Lexington',
+  State: 'KY',
+  Phone: '(859) 253-2605' }
+{ Name: 'First FS & LA',
+  City: 'Hazard',
+  State: 'KY',
+  Phone: '(606) 436-3860' }
+{ Name: 'First FS & LA',
+  City: 'Morehead',
+  State: 'KY',
+  Phone: '(606) 784-4187' }
+{ Name: 'Home FS & LA',
+  City: 'Ashland',
+  State: 'KY',
+  Phone: '(606) 324-7196' }
+{ Name: 'Home Savings Bank, FSB',
+  City: 'Ludlow',
+  State: 'KY',
+  Phone: '(859) 431-4437' }
+{ Name: 'Kentucky FS & LA',
+  City: 'Covington',
+  State: 'KY',
+  Phone: '(859) 261-2076' }
+{ Name: 'Bank of New Orleans',
+  City: 'Metairie',
+  State: 'LA',
+  Phone: '(504) 834-1190' }
+{ Name: 'Crowley B & LA',
+  City: 'Crowley',
+  State: 'LA',
+  Phone: '(337) 783-4121' }
+{ Name: 'Eureka Homestead',
+  City: 'Metairie',
+  State: 'LA',
+  Phone: '(504) 822-0650' }
+{ Name: 'Fidelity Hmstd Assn',
+  City: 'New Orleans',
+  State: 'LA',
+  Phone: '(504) 529-5011' }
+{ Name: 'Fifth District S & LA',
+  City: 'New Orleans',
+  State: 'LA',
+  Phone: '(504) 362-7544' }
+{ Name: 'First Federal Bank of Louisiana',
+  City: 'Lake Charles',
+  State: 'LA',
+  Phone: '(337) 433-3611' }
+{ Name: 'Hibernia Homestead and Savings Assn',
+  City: 'New Orleans',
+  State: 'LA',
+  Phone: '(504) 522-3203' }
+{ Name: 'Home Bank',
+  City: 'Lafayette',
+  State: 'LA',
+  Phone: '(337) 237-1960' }
+{ Name: 'Home FS & LA',
+  City: 'Shreveport',
+  State: 'LA',
+  Phone: '(318) 222-1145' }
+{ Name: 'Mutual S & LA',
+  City: 'Metairie',
+  State: 'LA',
+  Phone: '(504) 455-2444' }
+{ Name: 'Rayne B & LA',
+  City: 'Rayne',
+  State: 'LA',
+  Phone: '(337) 334-7535' }
+{ Name: 'Ruston Building and Loan Association',
+  City: 'Ruston',
+  State: 'LA',
+  Phone: '(318) 255-3733' }
+{ Name: 'St Landry Homestead FSB',
+  City: 'Opelousas',
+  State: 'LA',
+  Phone: '(337) 948-3033' }
+{ Name: 'St Tammany Hmstd S&LA',
+  City: 'Covington',
+  State: 'LA',
+  Phone: '(985) 892-4565' }
+{ Name: 'State-Investors Bank',
+  City: 'Metairie',
+  State: 'LA',
+  Phone: '(504) 832-9400' }
+{ Name: 'Union S & LA',
+  City: 'New Orleans',
+  State: 'LA',
+  Phone: '(504) 522-5581' }
+{ Name: 'Colonial Federal Savings Bank',
+  City: 'Quincy',
+  State: 'MA',
+  Phone: '(617) 471-0750' }
+{ Name: 'Family Federal Savings, F.A.',
+  City: 'Fitchburg',
+  State: 'MA',
+  Phone: '(978) 342-8677' }
+{ Name: 'Fitchburg Savings Bank, FSB',
+  City: 'Fitchburg',
+  State: 'MA',
+  Phone: '(978) 345-1061' }
+{ Name: 'Foxboro Federal Savings',
+  City: 'Foxborough',
+  State: 'MA',
+  Phone: '(508) 543-5321' }
+{ Name: 'Hyde Park Co-op Bk',
+  City: 'Hyde Park',
+  State: 'MA',
+  Phone: '(617) 361-2180' }
+{ Name: 'Lafayette Federal Savings Bank',
+  City: 'Fall River',
+  State: 'MA',
+  Phone: '(508) 679-1961' }
+{ Name: 'Middlesex Federal Savings, F.A.',
+  City: 'Somerville',
+  State: 'MA',
+  Phone: '(617) 666-4700' }
+{ Name: 'Milford FS & LA',
+  City: 'Milford',
+  State: 'MA',
+  Phone: '(508) 473-1125' }
+{ Name: 'Mutual FSB of Plymouth County',
+  City: 'Whitman',
+  State: 'MA',
+  Phone: '(781) 447-4488' }
+{ Name: 'Natick Federal Savings Bank',
+  City: 'Natick',
+  State: 'MA',
+  Phone: '(508) 653-2340' }
+{ Name: 'Peoples Federal Savings Bank',
+  City: 'Brighton',
+  State: 'MA',
+  Phone: '(617) 254-0707' }
+{ Name: 'Security Federal Savings Bank',
+  City: 'Brockton',
+  State: 'MA',
+  Phone: '(508) 586-4494' }
+{ Name: 'Winter Hill Federal Savings Bank',
+  City: 'Somerville',
+  State: 'MA',
+  Phone: '(617) 666-8600' }
+{ Name: 'Advance Bank',
+  City: 'Baltimore',
+  State: 'MD',
+  Phone: '(410) 358-1700' }
+{ Name: 'Arundel Federal Savings Bank',
+  City: 'Baltimore',
+  State: 'MD',
+  Phone: '(410) 355-9300' }
+{ Name: 'Bay-Vanguard Federal Savings Bank',
+  City: 'Baltimore',
+  State: 'MD',
+  Phone: '(410) 477-5000' }
+{ Name: 'Bradford Bank',
+  City: 'Baltimore',
+  State: 'MD',
+  Phone: '(410) 377-9600' }
+{ Name: 'Fairmount Federal Savings Bank',
+  City: 'Baltimore',
+  State: 'MD',
+  Phone: '(410) 866-4500' }
+{ Name: 'First Shore FS & LA',
+  City: 'Salisbury',
+  State: 'MD',
+  Phone: '(410) 546-1101' }
+{ Name: 'Fraternity FS & LA',
+  City: 'Baltimore',
+  State: 'MD',
+  Phone: '(410) 539-1313' }
+{ Name: 'Fullerton Federal Savings Association',
+  City: 'Baltimore',
+  State: 'MD',
+  Phone: '(410) 665-5200' }
+{ Name: 'Golden Prague FS & LA',
+  City: 'Baltimore',
+  State: 'MD',
+  Phone: '(410) 675-4474' }
+{ Name: 'Hamilton Federal Bank',
+  City: 'Baltimore',
+  State: 'MD',
+  Phone: '(410) 254-9700' }
+{ Name: 'Homewood Federal Savings Bank',
+  City: 'Baltimore',
+  State: 'MD',
+  Phone: '(410) 327-5220' }
+{ Name: 'Hull Federal Savings Bank',
+  City: 'Baltimore',
+  State: 'MD',
+  Phone: '(410) 625-5822' }
+{ Name: 'Ideal Federal Savings Bank',
+  City: 'Baltimore',
+  State: 'MD',
+  Phone: '(410) 669-1629' }
+{ Name: 'Jarrettsville FS & LA',
+  City: 'Jarrettsville',
+  State: 'MD',
+  Phone: '(410) 692-5151' }
+{ Name: 'Kopernik Federal Bank',
+  City: 'Baltimore',
+  State: 'MD',
+  Phone: '(410) 276-4905' }
+{ Name: 'Kosciuszko Federal Savings Bank',
+  City: 'Baltimore',
+  State: 'MD',
+  Phone: '(410) 342-1384' }
+{ Name: 'Liberty FS & LA',
+  City: 'Baltimore',
+  State: 'MD',
+  Phone: '(410) 752-3070' }
+{ Name: 'Madison Bradford/Bohemian American SB',
+  City: 'Forest Hill',
+  State: 'MD',
+  Phone: '(410) 420-9600' }
+{ Name: 'Madison Square Federal Savings Bank',
+  City: 'Baltimore',
+  State: 'MD',
+  Phone: '(410) 488-4800' }
+{ Name: 'Midstate FS&LA',
+  City: 'Baltimore',
+  State: 'MD',
+  Phone: '(410) 377-4330' }
+{ Name: 'North Arundel Savings Bank, FSB',
+  City: 'Pasadena',
+  State: 'MD',
+  Phone: '(410) 255-6700' }
+{ Name: 'OBA Federal Savings Bank',
+  City: 'Germantown',
+  State: 'MD',
+  Phone: '(301) 916-6400' }
+{ Name: 'Rosedale FS & LA',
+  City: 'Baltimore',
+  State: 'MD',
+  Phone: '(410) 668-4400' }
+{ Name: 'Senator Bank',
+  City: 'Towson',
+  State: 'MD',
+  Phone: '(410) 583-2111' }
+{ Name: 'Slavie Federal Savings Bank',
+  City: 'Bel Air',
+  State: 'MD',
+  Phone: '(443) 265-5555' }
+{ Name: 'Suburban Federal Savings Bank',
+  City: 'Crofton',
+  State: 'MD',
+  Phone: '(410) 721-7330' }
+{ Name: 'Sykesville Federal SA',
+  City: 'Sykesville',
+  State: 'MD',
+  Phone: '(410) 795-1900' }
+{ Name: 'The Back and Middle River FS & LA',
+  City: 'Essex',
+  State: 'MD',
+  Phone: '(410) 687-1600' }
+{ Name: 'Vigilant Federal Savings Bank',
+  City: 'Baltimore',
+  State: 'MD',
+  Phone: '(410) 686-8693' }
+{ Name: 'Westview Savings Bank',
+  City: 'Baltimore',
+  State: 'MD',
+  Phone: '(410) 747-6200' }
+{ Name: 'Aroostook County FS & LA',
+  City: 'Caribou',
+  State: 'ME',
+  Phone: '(207) 498-8726' }
+{ Name: 'Auburn S & LA',
+  City: 'Auburn',
+  State: 'ME',
+  Phone: '(207) 782-6871' }
+{ Name: 'Bar Harbor S & LA',
+  City: 'Bar Harbor',
+  State: 'ME',
+  Phone: '(207) 288-3685' }
+{ Name: 'Calais FS & LA',
+  City: 'Calais',
+  State: 'ME',
+  Phone: '(207) 454-2123' }
+{ Name: 'First FS & LA of Bath',
+  City: 'Bath',
+  State: 'ME',
+  Phone: '(207) 442-8711' }
+{ Name: 'Gardiner Savings Institution, FSB',
+  City: 'Gardiner',
+  State: 'ME',
+  Phone: '(207) 582-5550' }
+{ Name: 'Kennebec FS & LA of Waterville',
+  City: 'Waterville',
+  State: 'ME',
+  Phone: '(207) 873-5151' }
+{ Name: 'Rockland S & LA',
+  City: 'Rockland',
+  State: 'ME',
+  Phone: '(207) 594-8465' }
+{ Name: 'Community Plus Savings Bank',
+  City: 'Rochester Hills',
+  State: 'MI',
+  Phone: '' }
+{ Name: 'Dearborn FSB',
+  City: 'Dearborn',
+  State: 'MI',
+  Phone: '(313) 565-3100' }
+{ Name: 'Eaton Federal Savings Bank',
+  City: 'Charlotte',
+  State: 'MI',
+  Phone: '(517) 543-3880' }
+{ Name: 'Home Federal Savings Bank',
+  City: 'Detroit',
+  State: 'MI',
+  Phone: '(313) 873-3310' }
+{ Name: 'LaSalle Federal Savings Bank',
+  City: 'Buchanan',
+  State: 'MI',
+  Phone: '(269) 982-4175' }
+{ Name: 'MainStreet Savings Bank, FSB',
+  City: 'Hastings',
+  State: 'MI',
+  Phone: '(269) 945-9561' }
+{ Name: 'New Buffalo Savings Bank, a FSB',
+  City: 'New Buffalo',
+  State: 'MI',
+  Phone: '(616) 469-2222' }
+{ Name: 'Wolverine Bank, Federal Savings Bank',
+  City: 'Midland',
+  State: 'MI',
+  Phone: '(989) 631-4280' }
+{ Name: 'Brainerd S & LA, a Federal Assn',
+  City: 'Brainerd',
+  State: 'MN',
+  Phone: '(218) 829-5183' }
+{ Name: 'Lake City FS & LA',
+  City: 'Lake City',
+  State: 'MN',
+  Phone: '(651) 345-3373' }
+{ Name: 'St James FS & LA',
+  City: 'Saint James',
+  State: 'MN',
+  Phone: '(507) 375-3177' }
+{ Name: 'Worthington Federal Savings Bank, fsb',
+  City: 'Worthington',
+  State: 'MN',
+  Phone: '(507) 372-2131' }
+{ Name: 'American L & SA',
+  City: 'Hannibal',
+  State: 'MO',
+  Phone: '(573) 221-4306' }
+{ Name: 'Carroll County S & LA',
+  City: 'Carrollton',
+  State: 'MO',
+  Phone: '(660) 542-2354' }
+{ Name: 'Central FS & LA of Rolla',
+  City: 'Rolla',
+  State: 'MO',
+  Phone: '(573) 364-1024' }
+{ Name: 'First Federal Bank, FSB',
+  City: 'Kansas City',
+  State: 'MO',
+  Phone: '(816) 241-7800' }
+{ Name: 'Home S & LA of Norborne, F.A.',
+  City: 'Norborne',
+  State: 'MO',
+  Phone: '(660) 593-3313' }
+{ Name: 'Home Savings Bank',
+  City: 'Jefferson City',
+  State: 'MO',
+  Phone: '(573) 636-4193' }
+{ Name: 'Midwest FS & LA of St Joseph',
+  City: 'Saint Joseph',
+  State: 'MO',
+  Phone: '(816) 233-5148' }
+{ Name: 'Mississippi County S & LA',
+  City: 'Charleston',
+  State: 'MO',
+  Phone: '(573) 683-2141' }
+{ Name: 'Ozarks FS & LA',
+  City: 'Farmington',
+  State: 'MO',
+  Phone: '(573) 756-6622' }
+{ Name: 'Quarry City S & LA',
+  City: 'Warrensburg',
+  State: 'MO',
+  Phone: '(660) 747-5513' }
+{ Name: 'Systematic S & LA',
+  City: 'Springfield',
+  State: 'MO',
+  Phone: '(417) 862-5036' }
+{ Name: 'West Plains S & LA',
+  City: 'West Plains',
+  State: 'MO',
+  Phone: '(417) 256-3042' }
+{ Name: 'Amory FS & LA',
+  City: 'Amory',
+  State: 'MS',
+  Phone: '(662) 256-9323' }
+{ Name: 'First FS & LA',
+  City: 'Aberdeen',
+  State: 'MS',
+  Phone: '(662) 369-2772' }
+{ Name: 'First FS & LA',
+  City: 'Pascagoula',
+  State: 'MS',
+  Phone: '(228) 762-4034' }
+{ Name: 'Pioneer FS & LA',
+  City: 'Deer Lodge',
+  State: 'MT',
+  Phone: '(406) 683-5191' }
+{ Name: 'Belmont FS & LA',
+  City: 'Belmont',
+  State: 'NC',
+  Phone: '(704) 825-9861' }
+{ Name: 'Cherryville FS & LA',
+  City: 'Cherryville',
+  State: 'NC',
+  Phone: '(704) 435-3737' }
+{ Name: 'First FSB of Lincolnton',
+  City: 'Lincolnton',
+  State: 'NC',
+  Phone: '(704) 735-0416' }
+{ Name: 'First S & LA',
+  City: 'Mebane',
+  State: 'NC',
+  Phone: '(919) 563-9231' }
+{ Name: 'HomeTrust Bank',
+  City: 'Clyde',
+  State: 'NC',
+  Phone: '(828) 259-3939' }
+{ Name: 'Industrial Federal Savings Bank',
+  City: 'Lexington',
+  State: 'NC',
+  Phone: '(336) 243-2766' }
+{ Name: 'Morganton FS & LA',
+  City: 'Morganton',
+  State: 'NC',
+  Phone: '(828) 437-1426' }
+{ Name: 'Mount Gilead S & LA',
+  City: 'Mount Gilead',
+  State: 'NC',
+  Phone: '(910) 439-6165' }
+{ Name: 'Piedmont FS & LA',
+  City: 'Winston Salem',
+  State: 'NC',
+  Phone: '(336) 770-1000' }
+{ Name: 'Gate City Bank',
+  City: 'Fargo',
+  State: 'ND',
+  Phone: '(701) 293-2400' }
+{ Name: 'Equitable Federal SB of Grand Island',
+  City: 'Grand Island',
+  State: 'NE',
+  Phone: '(308) 382-3136' }
+{ Name: 'Home FS&LA of Grand Island',
+  City: 'Grand Island',
+  State: 'NE',
+  Phone: '(800) 658-3183' }
+{ Name: 'Home FS&LA of Nebraska',
+  City: 'Lexington',
+  State: 'NE',
+  Phone: '(308) 324-2331' }
+{ Name: 'Madison County Bank',
+  City: 'Madison',
+  State: 'NE',
+  Phone: '(402) 454-6511' }
+{ Name: 'Sidney FS&LA',
+  City: 'Sidney',
+  State: 'NE',
+  Phone: '(308) 254-2401' }
+{ Name: 'Tecumseh B&LA',
+  City: 'Tecumseh',
+  State: 'NE',
+  Phone: '(402) 335-3384' }
+{ Name: 'Federal Savings Bank',
+  City: 'Dover',
+  State: 'NH',
+  Phone: '(603) 742-4680' }
+{ Name: 'Monadnock Community Bank',
+  City: 'Peterborough',
+  State: 'NH',
+  Phone: '(603) 924-9654' }
+{ Name: 'Profile Bank, FSB',
+  City: 'Rochester',
+  State: 'NH',
+  Phone: '(603) 332-2610' }
+{ Name: 'Salem Co-op Bk',
+  City: 'Salem',
+  State: 'NH',
+  Phone: '(603) 898-2153' }
+{ Name: 'Clifton Savings Bank, S.L.A.',
+  City: 'Clifton',
+  State: 'NJ',
+  Phone: '(973) 473-2200' }
+{ Name: 'Freehold Savings and Loan Association',
+  City: 'Freehold',
+  State: 'NJ',
+  Phone: '(732) 462-6700' }
+{ Name: 'Gibraltar Savings Bank, FSB',
+  City: 'Mendham',
+  State: 'NJ',
+  Phone: '(973) 372-1221' }
+{ Name: 'Lincoln Park S & LA',
+  City: 'Lincoln Park',
+  State: 'NJ',
+  Phone: '(973) 694-0481' }
+{ Name: 'Llewellyn-Edison Savings Bank, FSB',
+  City: 'West Orange',
+  State: 'NJ',
+  Phone: '(973) 736-0020' }
+{ Name: 'Millville S&LA',
+  City: 'Millville',
+  State: 'NJ',
+  Phone: '(856) 825-0809' }
+{ Name: 'Monroe Savings Bank, SLA',
+  City: 'Williamstown',
+  State: 'NJ',
+  Phone: '(856) 629-6439' }
+{ Name: 'Roma Bank',
+  City: 'Trenton',
+  State: 'NJ',
+  Phone: '(609) 585-6300' }
+{ Name: 'Somerset Savings Bank, SLA',
+  City: 'Bound Brook',
+  State: 'NJ',
+  Phone: '(732) 560-1700' }
+{ Name: 'Spencer Savings Bank, SLA',
+  City: 'Elmwood Park',
+  State: 'NJ',
+  Phone: '(201) 703-3800' }
+{ Name: 'Summit FS & LA',
+  City: 'Summit',
+  State: 'NJ',
+  Phone: '(908) 273-8150' }
+{ Name: 'The Franklin Savings Bank, SLA',
+  City: 'Salem',
+  State: 'NJ',
+  Phone: '(856) 769-4400' }
+{ Name: 'Tucumcari FS & LA',
+  City: 'Tucumcari',
+  State: 'NM',
+  Phone: '(505) 461-0191' }
+{ Name: 'Atlas S & LA',
+  City: 'Brooklyn',
+  State: 'NY',
+  Phone: '(718) 768-4800' }
+{ Name: 'Brooklyn Federal Savings Bank',
+  City: 'Brooklyn',
+  State: 'NY',
+  Phone: '(718) 855-8500' }
+{ Name: 'Canisteo S & LA',
+  City: 'Canisteo',
+  State: 'NY',
+  Phone: '(607) 698-2742' }
+{ Name: 'Carthage FS & LA',
+  City: 'Carthage',
+  State: 'NY',
+  Phone: '(315) 493-3480' }
+{ Name: 'Cross County Federal Savings Bank',
+  City: 'Middle Village',
+  State: 'NY',
+  Phone: '(718) 326-6300' }
+{ Name: 'Fairport Savings Bank',
+  City: 'Fairport',
+  State: 'NY',
+  Phone: '(585) 223-9080' }
+{ Name: 'First Federal Savings of Middletown',
+  City: 'Middletown',
+  State: 'NY',
+  Phone: '(845) 343-1401' }
+{ Name: 'Fourth Federal Savings Bank',
+  City: 'New York',
+  State: 'NY',
+  Phone: '(914) 684-2500' }
+{ Name: 'Geddes FS & LA',
+  City: 'Syracuse',
+  State: 'NY',
+  Phone: '(315) 468-6281' }
+{ Name: 'Highland Falls FS & LA',
+  City: 'Highland Falls',
+  State: 'NY',
+  Phone: '(845) 446-4711' }
+{ Name: 'Lake Shore S & LA',
+  City: 'Dunkirk',
+  State: 'NY',
+  Phone: '(716) 366-4070' }
+{ Name: 'Maspeth FS & LA',
+  City: 'Maspeth',
+  State: 'NY',
+  Phone: '(718) 335-1300' }
+{ Name: 'Massena Savings and Loan',
+  City: 'Massena',
+  State: 'NY',
+  Phone: '(315) 764-0541' }
+{ Name: 'Medina S & LA',
+  City: 'Medina',
+  State: 'NY',
+  Phone: '(716) 798-2801' }
+{ Name: 'Ponce De Leon Federal Bank',
+  City: 'Bronx',
+  State: 'NY',
+  Phone: '(718) 931-9000' }
+{ Name: 'Seneca FS & LA',
+  City: 'Baldwinsville',
+  State: 'NY',
+  Phone: '(315) 638-0233' }
+{ Name: 'Sunnyside FS&LA of Irvington',
+  City: 'Irvington',
+  State: 'NY',
+  Phone: '(914) 591-8000' }
+{ Name: 'Walden Federal Savings & Loan Assoc',
+  City: 'Walden',
+  State: 'NY',
+  Phone: '(845) 778-2171' }
+{ Name: 'Wallkill Valley FS & LA',
+  City: 'Wallkill',
+  State: 'NY',
+  Phone: '(845) 895-2051' }
+{ Name: 'Adams County B & LC',
+  City: 'West Union',
+  State: 'OH',
+  Phone: '(937) 544-2842' }
+{ Name: 'Bethel B & LC',
+  City: 'Bethel',
+  State: 'OH',
+  Phone: '(513) 734-4445' }
+{ Name: 'Caldwell S & L Co',
+  City: 'Caldwell',
+  State: 'OH',
+  Phone: '(740) 732-5678' }
+{ Name: 'Century Bank',
+  City: 'Parma',
+  State: 'OH',
+  Phone: '(216) 351-7000' }
+{ Name: 'Cincinnati FS & LA',
+  City: 'Cincinnati',
+  State: 'OH',
+  Phone: '(513) 921-1465' }
+{ Name: 'Citizens FS & LA',
+  City: 'Bellefontaine',
+  State: 'OH',
+  Phone: '(937) 593-0015' }
+{ Name: 'Eagle Savings Bank',
+  City: 'Cincinnati',
+  State: 'OH',
+  Phone: '(513) 921-2910' }
+{ Name: 'Equitable S & L Co',
+  City: 'Cadiz',
+  State: 'OH',
+  Phone: '(740) 942-2092' }
+{ Name: 'Fairfield FS & LA',
+  City: 'Lancaster',
+  State: 'OH',
+  Phone: '(740) 653-3863' }
+{ Name: 'Fidelity FS & LA',
+  City: 'Delaware',
+  State: 'OH',
+  Phone: '(740) 363-1284' }
+{ Name: 'First Federal Bank of Ohio',
+  City: 'Galion',
+  State: 'OH',
+  Phone: '(419) 468-1518' }
+{ Name: 'First FS & LA',
+  City: 'Centerburg',
+  State: 'OH',
+  Phone: '(740) 625-5392' }
+{ Name: 'First FS & LA',
+  City: 'Newark',
+  State: 'OH',
+  Phone: '(740) 345-3494' }
+{ Name: 'First FS & LA',
+  City: 'Delta',
+  State: 'OH',
+  Phone: '(419) 822-3131' }
+{ Name: 'First FS & LA',
+  City: 'Lakewood',
+  State: 'OH',
+  Phone: '(216) 221-7300' }
+{ Name: 'First FS & LA of Lorain',
+  City: 'Lorain',
+  State: 'OH',
+  Phone: '(440) 282-6188' }
+{ Name: 'First FS & LA of Van Wert',
+  City: 'Van Wert',
+  State: 'OH',
+  Phone: '(419) 238-1463' }
+{ Name: 'Galion B & LA',
+  City: 'Galion',
+  State: 'OH',
+  Phone: '(419) 468-3113' }
+{ Name: 'Greenville FS & LA',
+  City: 'Greenville',
+  State: 'OH',
+  Phone: '(937) 548-4158' }
+{ Name: 'Home Savings Bank of Wapakoneta',
+  City: 'Wapakoneta',
+  State: 'OH',
+  Phone: '(419) 738-9258' }
+{ Name: 'Leesburg Federal Savings Bank',
+  City: 'Leesburg',
+  State: 'OH',
+  Phone: '(937) 780-2431' }
+{ Name: 'Liberty Federal Savings Bank',
+  City: 'Ironton',
+  State: 'OH',
+  Phone: '(740) 532-2856' }
+{ Name: 'Mercer Savings Bank',
+  City: 'Celina',
+  State: 'OH',
+  Phone: '(419) 586-5158' }
+{ Name: 'Miami Savings Bank',
+  City: 'Miamitown',
+  State: 'OH',
+  Phone: '(513) 353-1339' }
+{ Name: 'Monroe FS & LA',
+  City: 'Tipp City',
+  State: 'OH',
+  Phone: '(937) 667-8461' }
+{ Name: 'New Carlisle Federal Savings Bank',
+  City: 'New Carlisle',
+  State: 'OH',
+  Phone: '(937) 845-3636' }
+{ Name: 'Peoples S & L Co',
+  City: 'Bucyrus',
+  State: 'OH',
+  Phone: '(419) 562-6896' }
+{ Name: 'Ripley Federal Savings Bank',
+  City: 'Ripley',
+  State: 'OH',
+  Phone: '(937) 392-4375' }
+{ Name: 'The American Savings Bank',
+  City: 'Middletown',
+  State: 'OH',
+  Phone: '(513) 422-6324' }
+{ Name: 'The Brookville B & SA',
+  City: 'Brookville',
+  State: 'OH',
+  Phone: '(937) 833-2176' }
+{ Name: 'The Cincinnatus Savings & Loan Co.',
+  City: 'Cincinnati',
+  State: 'OH',
+  Phone: '(513) 661-6903' }
+{ Name: 'The Clifton Heights Savings & Loan Co',
+  City: 'Cincinnati',
+  State: 'OH',
+  Phone: '(513) 621-4759' }
+{ Name: 'The Covington S & LA',
+  City: 'Covington',
+  State: 'OH',
+  Phone: '(937) 473-2021' }
+{ Name: 'The Harrison B & LA',
+  City: 'Harrison',
+  State: 'OH',
+  Phone: '(513) 367-2015' }
+{ Name: 'The Home B & LC',
+  City: 'Greenfield',
+  State: 'OH',
+  Phone: '(937) 981-3123' }
+{ Name: 'The Home Builders Assn',
+  City: 'Lynchburg',
+  State: 'OH',
+  Phone: '(937) 364-2861' }
+{ Name: 'The Home S&L Company of Kenton, Ohio',
+  City: 'Kenton',
+  State: 'OH',
+  Phone: '(419) 673-1117' }
+{ Name: 'The Mt Washington S & L Co',
+  City: 'Cincinnati',
+  State: 'OH',
+  Phone: '(513) 231-7871' }
+{ Name: 'The New Foundation L & BC',
+  City: 'Cincinnati',
+  State: 'OH',
+  Phone: '(513) 729-0100' }
+{ Name: 'The Peoples BL & S Co',
+  City: 'Mason',
+  State: 'OH',
+  Phone: '(513) 398-1040' }
+{ Name: 'The Peoples S & L Co',
+  City: 'West Liberty',
+  State: 'OH',
+  Phone: '(937) 465-4931' }
+{ Name: 'Van Wert Federal Savings Bank',
+  City: 'Van Wert',
+  State: 'OH',
+  Phone: '(419) 238-9662' }
+{ Name: 'Versailles S & L Co',
+  City: 'Versailles',
+  State: 'OH',
+  Phone: '(937) 526-4515' }
+{ Name: 'Warsaw FS & LA',
+  City: 'Cincinnati',
+  State: 'OH',
+  Phone: '(513) 244-6900' }
+{ Name: 'Fairview S&LA',
+  City: 'Fairview',
+  State: 'OK',
+  Phone: '(580) 227-3735' }
+{ Name: 'Liberty FSB',
+  City: 'Enid',
+  State: 'OK',
+  Phone: '(580) 234-5313' }
+{ Name: 'Evergreen FS & LA',
+  City: 'Grants Pass',
+  State: 'OR',
+  Phone: '(541) 479-3351' }
+{ Name: 'First FS & LA of McMinnville',
+  City: 'McMinnville',
+  State: 'OR',
+  Phone: '(503) 472-6171' }
+{ Name: 'American Eagle Savings Bank',
+  City: 'Boothwyn',
+  State: 'PA',
+  Phone: '(610) 485-1226' }
+{ Name: 'Armstrong County B & LA',
+  City: 'Ford City',
+  State: 'PA',
+  Phone: '(724) 763-7137' }
+{ Name: 'Cambria County FS & LA',
+  City: 'Cresson',
+  State: 'PA',
+  Phone: '(814) 886-2641' }
+{ Name: 'Citizens SA',
+  City: 'Mount Pocono',
+  State: 'PA',
+  Phone: '(570) 587-0655' }
+{ Name: 'Compass Federal Savings Bank',
+  City: 'Wilmerding',
+  State: 'PA',
+  Phone: '(412) 824-1070' }
+{ Name: 'County Savings Bank',
+  City: 'Essington',
+  State: 'PA',
+  Phone: '(610) 521-1080' }
+{ Name: 'Dollar Bank, FSB',
+  City: 'Pittsburgh',
+  State: 'PA',
+  Phone: '(412) 261-4900' }
+{ Name: 'Dwelling House S & LA',
+  City: 'Pittsburgh',
+  State: 'PA',
+  Phone: '(412) 683-5116' }
+{ Name: 'Elk County S & LA',
+  City: 'Ridgway',
+  State: 'PA',
+  Phone: '(814) 776-6181' }
+{ Name: 'ESSA Bank & Trust',
+  City: 'Stroudsburg',
+  State: 'PA',
+  Phone: '(570) 421-0531' }
+{ Name: 'Fidelity S & LA of Bucks Co',
+  City: 'Bristol',
+  State: 'PA',
+  Phone: '(215) 788-0448' }
+{ Name: 'First FS & LA of Bucks Co',
+  City: 'Bristol',
+  State: 'PA',
+  Phone: '(215) 788-3344' }
+{ Name: 'First FS & LA of Greene Co',
+  City: 'Waynesburg',
+  State: 'PA',
+  Phone: '(724) 627-6116' }
+{ Name: 'Fox Chase Bank',
+  City: 'Hatboro',
+  State: 'PA',
+  Phone: '(215) 682-7400' }
+{ Name: 'Hatboro Federal Savings, FA',
+  City: 'Hatboro',
+  State: 'PA',
+  Phone: '(215) 675-4000' }
+{ Name: 'Malvern Federal Savings Bank',
+  City: 'Paoli',
+  State: 'PA',
+  Phone: '(610) 644-9400' }
+{ Name: 'Milton Savings Bank',
+  City: 'Milton',
+  State: 'PA',
+  Phone: '(570) 742-8541' }
+{ Name: 'Morton Savings Bank',
+  City: 'Morton',
+  State: 'PA',
+  Phone: '(610) 544-0400' }
+{ Name: 'Phoenixville Federal Bank and Trust',
+  City: 'Phoenixville',
+  State: 'PA',
+  Phone: '(610) 935-8304' }
+{ Name: 'Polonia Bank',
+  City: 'Huntingdon Valley',
+  State: 'PA',
+  Phone: '(215) 427-3333' }
+{ Name: 'Progressive-Home FS & LA',
+  City: 'Pittsburgh',
+  State: 'PA',
+  Phone: '(412) 431-0100' }
+{ Name: 'Prudential Savings Bank',
+  City: 'Philadelphia',
+  State: 'PA',
+  Phone: '(215) 755-1500' }
+{ Name: 'Second FS & LA of Philadelphia',
+  City: 'Philadelphia',
+  State: 'PA',
+  Phone: '(215) 563-1572' }
+{ Name: 'Slovenian S & LA of Canonsburg',
+  City: 'Strabane',
+  State: 'PA',
+  Phone: '(724) 745-5000' }
+{ Name: 'Slovenian S&LA of Franklin-Conemaugh',
+  City: 'Johnstown',
+  State: 'PA',
+  Phone: '(814) 535-7658' }
+{ Name: 'St Edmond\'s Federal Savings Bank',
+  City: 'Philadelphia',
+  State: 'PA',
+  Phone: '(215) 468-1700' }
+{ Name: 'Washington SA',
+  City: 'Philadelphia',
+  State: 'PA',
+  Phone: '(215) 427-3500' }
+{ Name: 'Westmoreland FS & LA',
+  City: 'Latrobe',
+  State: 'PA',
+  Phone: '(724) 539-9755' }
+{ Name: 'William Penn S & LA',
+  City: 'Levittown',
+  State: 'PA',
+  Phone: '(215) 945-1200' }
+{ Name: 'Newport Federal Savings Bank',
+  City: 'Newport',
+  State: 'RI',
+  Phone: '(401) 847-3452' }
+{ Name: 'Westerly Savings Bank',
+  City: 'Westerly',
+  State: 'RI',
+  Phone: '(401) 596-2911' }
+{ Name: 'Carolina Federal Savings Bank',
+  City: 'Charleston',
+  State: 'SC',
+  Phone: '(843) 571-6900' }
+{ Name: 'Citizens B & LA',
+  City: 'Greer',
+  State: 'SC',
+  Phone: '(864) 877-2054' }
+{ Name: 'First Piedmont FS & LA of Gaffney',
+  City: 'Gaffney',
+  State: 'SC',
+  Phone: '(864) 489-6046' }
+{ Name: 'Home FS & LA',
+  City: 'Bamberg',
+  State: 'SC',
+  Phone: '(803) 245-5130' }
+{ Name: 'Mutual Savings Bank',
+  City: 'Hartsville',
+  State: 'SC',
+  Phone: '(843) 383-3055' }
+{ Name: 'Oconee Federal S&LA',
+  City: 'Seneca',
+  State: 'SC',
+  Phone: '(864) 882-2765' }
+{ Name: 'Pee Dee Federal Savings Bank',
+  City: 'Marion',
+  State: 'SC',
+  Phone: '(843) 423-2150' }
+{ Name: 'Spratt S & LA',
+  City: 'Chester',
+  State: 'SC',
+  Phone: '(803) 385-5102' }
+{ Name: 'Woodruff FS & LA',
+  City: 'Woodruff',
+  State: 'SC',
+  Phone: '(864) 476-8144' }
+{ Name: 'First Federal Bank, a FSB',
+  City: 'Beresford',
+  State: 'SD',
+  Phone: '(605) 763-2135' }
+{ Name: 'Athens Federal Community Bank',
+  City: 'Athens',
+  State: 'TN',
+  Phone: '(423) 745-1111' }
+{ Name: 'Elizabethton Federal Savings Bank',
+  City: 'Elizabethton',
+  State: 'TN',
+  Phone: '(423) 543-5050' }
+{ Name: 'First Federal Savings Bank',
+  City: 'Clarksville',
+  State: 'TN',
+  Phone: '(931) 552-6176' }
+{ Name: 'Greeneville Federal Bank, FSB',
+  City: 'Greeneville',
+  State: 'TN',
+  Phone: '(423) 638-4154' }
+{ Name: 'Highland FS & LA',
+  City: 'Crossville',
+  State: 'TN',
+  Phone: '(931) 484-6178' }
+{ Name: 'Home Federal Bank of Tennessee',
+  City: 'Knoxville',
+  State: 'TN',
+  Phone: '(865) 546-0330' }
+{ Name: 'Lawrenceburg Federal Bank, FSB',
+  City: 'Lawrenceburg',
+  State: 'TN',
+  Phone: '(931) 762-7571' }
+{ Name: 'Volunteer FS & LA of Madisonville',
+  City: 'Madisonville',
+  State: 'TN',
+  Phone: '(423) 442-4545' }
+{ Name: 'Dalhart FS & LA',
+  City: 'Dalhart',
+  State: 'TX',
+  Phone: '(806) 249-8561' }
+{ Name: 'First Federal Community Bank',
+  City: 'Paris',
+  State: 'TX',
+  Phone: '(903) 784-0881' }
+{ Name: 'First FS & LA of Littlefield',
+  City: 'Littlefield',
+  State: 'TX',
+  Phone: '(806) 385-7511' }
+{ Name: 'Henderson Federal Savings Bank',
+  City: 'Henderson',
+  State: 'TX',
+  Phone: '(903) 657-2577' }
+{ Name: 'First FS&LA of Martinsville',
+  City: 'Martinsville',
+  State: 'VA',
+  Phone: '(276) 638-8771' }
+{ Name: 'Imperial S & LA Inc',
+  City: 'Martinsville',
+  State: 'VA',
+  Phone: '(276) 638-7545' }
+{ Name: 'The Brattleboro SLA, F.A.',
+  City: 'Brattleboro',
+  State: 'VT',
+  Phone: '(802) 254-5333' }
+{ Name: 'First FS & LA of Port Angeles',
+  City: 'Port Angeles',
+  State: 'WA',
+  Phone: '(360) 457-0461' }
+{ Name: 'Olympia FS & LA',
+  City: 'Olympia',
+  State: 'WA',
+  Phone: '(360) 754-3400' }
+{ Name: 'Raymond Federal Bank',
+  City: 'Raymond',
+  State: 'WA',
+  Phone: '(360) 942-3444' }
+{ Name: 'Sound Community Bank',
+  City: 'Seattle',
+  State: 'WA',
+  Phone: '(800) 458-5585' }
+{ Name: 'Yakima FS & LA',
+  City: 'Yakima',
+  State: 'WA',
+  Phone: '(509) 248-2634' }
+{ Name: 'Bay View FS & LA',
+  City: 'Milwaukee',
+  State: 'WI',
+  Phone: '(414) 744-1831' }
+{ Name: 'Columbia S & LA',
+  City: 'Milwaukee',
+  State: 'WI',
+  Phone: '(414) 374-0486' }
+{ Name: 'Continental Savings Bank, FSB',
+  City: 'Milwaukee',
+  State: 'WI',
+  Phone: '(414) 525-7070' }
+{ Name: 'Cumberland Federal Bank, FSB',
+  City: 'Cumberland',
+  State: 'WI',
+  Phone: '(715) 822-2249' }
+{ Name: 'East Wisconsin Savings Bank, S.A.',
+  City: 'Kaukauna',
+  State: 'WI',
+  Phone: '(920) 766-4646' }
+{ Name: 'First FSB of Wisconsin',
+  City: 'Waukesha',
+  State: 'WI',
+  Phone: '(262) 542-4448' }
+{ Name: 'Fox Valley Savings Bank',
+  City: 'Fond Du Lac',
+  State: 'WI',
+  Phone: '(920) 921-7220' }
+{ Name: 'Ladysmith FS & LA',
+  City: 'Ladysmith',
+  State: 'WI',
+  Phone: '(715) 532-3389' }
+{ Name: 'Merrill FS & LA',
+  City: 'Merrill',
+  State: 'WI',
+  Phone: '(715) 536-7133' }
+{ Name: 'North Shore Bank, FSB',
+  City: 'Brookfield',
+  State: 'WI',
+  Phone: '(262) 785-1600' }
+{ Name: 'Paper City Savings Association',
+  City: 'Wisconsin Rapids',
+  State: 'WI',
+  Phone: '(715) 423-8100' }
+{ Name: 'PyraMax Bank, FSB',
+  City: 'Greenfield',
+  State: 'WI',
+  Phone: '(414) 421-8200' }
+{ Name: 'Time Federal Savings Bank',
+  City: 'Medford',
+  State: 'WI',
+  Phone: '(715) 748-2231' }
+{ Name: 'Doolin Security Savings Bank, FSB',
+  City: 'New Martinsville',
+  State: 'WV',
+  Phone: '(304) 455-1850' }
+{ Name: 'First FS & LA of Ravenswood',
+  City: 'Ravenswood',
+  State: 'WV',
+  Phone: '(304) 273-4212' }
+{ Name: 'Hancock County Savings Bank, F.S.B.',
+  City: 'Chester',
+  State: 'WV',
+  Phone: '(304) 387-1620' }
+{ Name: 'Huntington Federal Savings Bank',
+  City: 'Huntington',
+  State: 'WV',
+  Phone: '(304) 528-6200' }
+{ Name: 'Big Horn Federal Savings Bank',
+  City: 'Greybull',
+  State: 'WY',
+  Phone: '(307) 765-4414' }
+{ Name: 'First Federal Savings Bank',
+  City: 'Sheridan',
+  State: 'WY',
+  Phone: '(307) 672-0464' }
+{ Name: '' }
