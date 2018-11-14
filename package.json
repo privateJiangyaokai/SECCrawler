@@ -5,6 +5,7 @@
   "main": "main.js",
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
+    "dateformat": "^3.0.3",
     "datejs": "^1.0.0-rc3",
     "html5": "^1.0.5",
     "htmlparser": "^1.7.7",
