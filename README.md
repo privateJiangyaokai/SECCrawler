@@ -7,5 +7,6 @@ brew install git
 cd ~/  
 git clone https://github.com/privateJiangyaokai/SECCrawler.git  
 cd SECCrawler  
+git pull  
 npm install  
 node secArbScraper.js NUMBER_OF_DAYS_TO_SEARCH
